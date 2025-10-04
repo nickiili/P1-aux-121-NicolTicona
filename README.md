@@ -1,3 +1,3 @@
-Nombre: Nicol Yanina Ticona Aduviri
-R.U: 1855987
-C.I: 6786427
+<p>Nombre: Nicol Yanina Ticona Aduviri</p>
+<p>R.U: 1855987</p>
+<p>C.I: 6786427</p>
